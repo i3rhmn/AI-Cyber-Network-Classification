@@ -1,0 +1,11 @@
+Label,sum,count,anom_rate
+Generic,451,3000,0.1503
+Worms,21,246,0.0854
+DoS,180,3000,0.06
+Exploits,176,3000,0.0587
+Fuzzers,113,3000,0.0377
+Benign,105,3000,0.035
+Analysis,3,385,0.0078
+Backdoor,3,452,0.0066
+Shellcode,4,2102,0.0019
+Reconnaissance,4,3000,0.0013

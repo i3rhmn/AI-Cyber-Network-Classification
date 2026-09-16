@@ -1,0 +1,11 @@
+Label,proportion
+Generic,42.55
+DoS,16.98
+Exploits,16.6
+Fuzzers,10.66
+Benign,9.91
+Worms,1.98
+Reconnaissance,0.38
+Shellcode,0.38
+Backdoor,0.28
+Analysis,0.28
